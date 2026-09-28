@@ -1,0 +1,8 @@
+# Dependências do projeto — instale tudo de uma vez com:
+#   pip install -r requirements.txt
+
+flask          # framework usado para criar o servidor web (app.py)
+requests       # biblioteca usada para fazer requisições HTTP (cliente.py)
+python-dotenv  # carrega as variáveis do arquivo .env para o Python
+google-genai   # SDK oficial do Google para usar o modelo Gemini
+openai         # SDK oficial da OpenAI para usar o modelo GPT
