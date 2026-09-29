@@ -214,6 +214,4 @@ if __name__ == "__main__":
     #                        ÓTIMO para aprender, mas NUNCA use em produção!
     app.run(host="localhost", port=5000, debug=True)
 
-
-
-
+# Outro comentário diferente
